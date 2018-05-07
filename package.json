@@ -1,0 +1,27 @@
+{
+  "name": "firehost",
+  "version": "1.0.0",
+  "description": "File Hosting service with Firebase",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/time2hack/firehost.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/time2hack/firehost/issues"
+  },
+  "homepage": "https://github.com/time2hack/firehost#readme",
+  "dependencies": {
+    "firebase": "^4.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2"
+  }
+}
